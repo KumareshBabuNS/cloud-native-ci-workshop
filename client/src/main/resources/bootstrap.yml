@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: TrySpringBoot14-client
+
+security:
+  basic:
+    enabled: false

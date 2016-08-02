@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: TrySpringBoot14
+security:
+  basic:
+    enabled: false
+
+management.security.enabled: false

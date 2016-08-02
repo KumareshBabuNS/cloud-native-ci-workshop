@@ -1,0 +1,9 @@
+info:
+  foo: bar
+
+greeting.message: "Hi local"
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update

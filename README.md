@@ -8,4 +8,4 @@ There are 3 projects:
 To create the services required to run these services, 
 ./scripts/create_services.sh
 
-
+A manifest is created to upload all 3 apps.

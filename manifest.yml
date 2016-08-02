@@ -19,7 +19,7 @@ applications:
   memory: 768MB
   instances: 1
   host: tryspringboot14-client
-  path: build/libs/tryspringboot14-client-0.0.1-SNAPSHOT.jar
+  path: client/build/libs/tryspringboot14-client-0.0.1-SNAPSHOT.jar
   services:
    - config
    - registry
@@ -32,7 +32,7 @@ applications:
   memory: 768MB
   instances: 1
   host: tryspringboot14-proxy
-  path: build/libs/tryspringboot14-proxy-0.0.1-SNAPSHOT.jar
+  path: proxy/build/libs/tryspringboot14-proxy-0.0.1-SNAPSHOT.jar
   services:
    - registry
    - config

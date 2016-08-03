@@ -1,6 +1,6 @@
 spring:
   application:
-    name: TrySpringBoot14-client
+    name: client-service
 
 security:
   basic:

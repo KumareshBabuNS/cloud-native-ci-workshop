@@ -6,12 +6,15 @@ There are 3 projects:
 - proxy: an API gateway by using Zuul
 
 To create the services required to run these services, 
+
 ./scripts/create_services.sh
 
 To build all
+
 ./scripts/build_all.sh
 
 To push all
+
 ./scripts/push_all.sh
 
 
